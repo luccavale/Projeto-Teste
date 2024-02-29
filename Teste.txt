@@ -5,3 +5,5 @@ FIAP
 teste de push
 
 teste de push 2
+
+teste de pull
